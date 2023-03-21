@@ -1,0 +1,13 @@
+{
+  "dest": "build/installers/",
+  "icon": "assets/icons/Icon.ico",
+  "tags": [
+    "Utility",
+    "Education"
+  ],
+  "options": {
+    "name": "YouVersion-Desktop",
+    "description": "A desktop client for YouVersion Holy Bible",
+    "arch": "amd64"
+  }
+}
